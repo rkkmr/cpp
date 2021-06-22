@@ -1,0 +1,3 @@
+Install VS Code
+Install Min GW https://sourceforge.net/projects/mingw/
+After installation->Set Environment variable. Add in PATH.
